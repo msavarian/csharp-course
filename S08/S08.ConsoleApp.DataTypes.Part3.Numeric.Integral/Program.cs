@@ -21,6 +21,15 @@ Console.WriteLine($"ushort : {ushort.MinValue} to {ushort.MaxValue} and size in 
 Console.WriteLine($"uint   : {uint.MinValue} to {uint.MaxValue} and size in memory is {sizeof(uint)}");
 Console.WriteLine($"ulong (System.Int64)  : {ulong.MinValue} to {ulong.MaxValue} and size in memory is {sizeof(ulong)}");
 
+Console.WriteLine("");
+Console.WriteLine("");
+
+int a = 5;
+int b = 5;
+int c = 3;
+Console.WriteLine("(a + b) / c = " + (a + b) / c);
+Console.WriteLine("(a + b) % c = " + (a + b) % c);
+
 //sbyte num1 = 200; // Has Error
 //byte num1 = 200; 
 
