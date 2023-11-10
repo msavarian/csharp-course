@@ -1,4 +1,7 @@
-﻿/*
+﻿
+Console.WriteLine("*** youtube.com/@msavarian (C# Learning Videos In Persian) ***");
+
+/*
 int number1 = 5;
 int number2 = 5;
 Console.WriteLine(number1 + number2);

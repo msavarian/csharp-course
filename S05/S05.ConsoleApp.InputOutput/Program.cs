@@ -1,4 +1,6 @@
 ﻿
+Console.WriteLine("*** youtube.com/@msavarian (C# Learning Videos In Persian) ***");
+
 Console.Write("Please Enter Your Name: ");
 Console.WriteLine("Hi " + Console.ReadLine());
 

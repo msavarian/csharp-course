@@ -1,4 +1,6 @@
-﻿Console.Title = "C# Course S01";
+﻿
+Console.WriteLine("*** youtube.com/@msavarian (C# Learning Videos In Persian) ***"); 
+Console.Title = "C# Course S01";
 
 // Console.WindowHeight = 30;
 
