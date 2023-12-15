@@ -13,21 +13,27 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "S06.ConsoleApp.Variables", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "S07.ConsoleApp.Naming", "S07\S07.ConsoleApp.Naming\S07.ConsoleApp.Naming.csproj", "{B1E8F6A0-9D6F-4B20-BCA7-4BAB31CC839B}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "S08.ConsoleApp.DataTypes.Part1", "S08\S08.ConsoleApp.DataTypes.Part1\S08.ConsoleApp.DataTypes.Part1.csproj", "{ED5C0D3E-B469-4F41-8B7D-6CFCED452BF1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "S08.ConsoleApp.DataTypes", "S08\S08.ConsoleApp.DataTypes.Part1\S08.ConsoleApp.DataTypes.csproj", "{ED5C0D3E-B469-4F41-8B7D-6CFCED452BF1}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "S08.ConsoleApp.DataTypes.Part3.Numeric.Integral", "S08\S08.ConsoleApp.DataTypes.Part3.Numeric.Integral\S08.ConsoleApp.DataTypes.Part3.Numeric.Integral.csproj", "{4A592451-5AEB-4DAC-A2D1-909D390E0666}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "S09.ConsoleApp.DataTypes.Numeric.Integral", "S08\S08.ConsoleApp.DataTypes.Part3.Numeric.Integral\S09.ConsoleApp.DataTypes.Numeric.Integral.csproj", "{4A592451-5AEB-4DAC-A2D1-909D390E0666}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Session-04 (TopLevelStatement)", "Session-04 (TopLevelStatement)", "{42A3B08D-BF6C-4730-BDCE-7A7D7A7294F2}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "S04 (TopLevelStatement)", "S04 (TopLevelStatement)", "{42A3B08D-BF6C-4730-BDCE-7A7D7A7294F2}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Session-05 (Input-Output)", "Session-05 (Input-Output)", "{C7F84B05-3408-4939-82C9-F6AF2558B8C7}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "S05 (Input-Output)", "S05 (Input-Output)", "{C7F84B05-3408-4939-82C9-F6AF2558B8C7}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Session-06 (Variables)", "Session-06 (Variables)", "{B014BB34-DC22-48BF-80D7-D5F48529EA99}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "S06 (Variables)", "S06 (Variables)", "{B014BB34-DC22-48BF-80D7-D5F48529EA99}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Session-07 (Naming)", "Session-07 (Naming)", "{6F03D354-A825-44CB-BA04-B75C6948181B}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "S07 (Naming)", "S07 (Naming)", "{6F03D354-A825-44CB-BA04-B75C6948181B}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Session-08 (DataTypes)", "Session-08 (DataTypes)", "{FC4322C3-7F6F-4F15-8EAF-F7B05C4D2CA3}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "S08-DataTypes", "S08-DataTypes", "{FC4322C3-7F6F-4F15-8EAF-F7B05C4D2CA3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "S08.ConsoleApp.DataTypes.Part4.Numeric.Fractional", "S08\S08.ConsoleApp.DataTypes.Part4.Numeric.Fractional\S08.ConsoleApp.DataTypes.Part4.Numeric.Fractional.csproj", "{08345CA8-B696-4E1A-8471-2609ED5EA67A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "S10.ConsoleApp.DataTypes.Numeric.Fractional", "S08\S08.ConsoleApp.DataTypes.Part4.Numeric.Fractional\S10.ConsoleApp.DataTypes.Numeric.Fractional.csproj", "{08345CA8-B696-4E1A-8471-2609ED5EA67A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "S11-DataTypes-StringsAndChars", "S11-DataTypes-StringsAndChars", "{05B4DA09-0782-4B37-AF4E-BD823E1D85F5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "S10-DataTypes-Numeric-Fractional", "S10-DataTypes-Numeric-Fractional", "{3944289A-CACA-49F7-A615-6988DDA4A7FC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "S09-DataTypes-Numeric-Integral", "S09-DataTypes-Numeric-Integral", "{A3836610-D4F1-44D8-9D13-E0056845DA87}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -112,8 +118,8 @@ Global
 		{2EF9CDC3-1CB0-4435-961D-3B6D6FB7E667} = {B014BB34-DC22-48BF-80D7-D5F48529EA99}
 		{B1E8F6A0-9D6F-4B20-BCA7-4BAB31CC839B} = {6F03D354-A825-44CB-BA04-B75C6948181B}
 		{ED5C0D3E-B469-4F41-8B7D-6CFCED452BF1} = {FC4322C3-7F6F-4F15-8EAF-F7B05C4D2CA3}
-		{4A592451-5AEB-4DAC-A2D1-909D390E0666} = {FC4322C3-7F6F-4F15-8EAF-F7B05C4D2CA3}
-		{08345CA8-B696-4E1A-8471-2609ED5EA67A} = {FC4322C3-7F6F-4F15-8EAF-F7B05C4D2CA3}
+		{4A592451-5AEB-4DAC-A2D1-909D390E0666} = {A3836610-D4F1-44D8-9D13-E0056845DA87}
+		{08345CA8-B696-4E1A-8471-2609ED5EA67A} = {3944289A-CACA-49F7-A615-6988DDA4A7FC}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {93C6D0AD-F0F7-4A1A-902B-CD9F1EDED7CA}

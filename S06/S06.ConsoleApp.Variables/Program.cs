@@ -62,13 +62,16 @@ const string Day7 = "Friday";
 
 /***** Enum ********************************/
 
-enum WeekDays
+namespace S06.ConsoleApp.Variables
 {
-    Saturday=1,
-    Sunday=2,
-    Monday=3,
-    Tuesday=4,
-    Wednesday=5,
-    Thursday=6,
-    Friday=7
+    enum WeekDays
+    {
+        Saturday=1,
+        Sunday=2,
+        Monday=3,
+        Tuesday=4,
+        Wednesday=5,
+        Thursday=6,
+        Friday=7
+    }
 }

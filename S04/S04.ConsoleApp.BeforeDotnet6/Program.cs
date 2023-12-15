@@ -1,4 +1,4 @@
-﻿namespace S01.ConsoleApp.BeforeDotnet6
+﻿namespace S04.ConsoleApp.BeforeDotnet6
 {
 
     internal class Program
